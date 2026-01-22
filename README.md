@@ -33,4 +33,5 @@ ComputerGraphics_OpenGL/                     # 顶层CMake项目
 ├── 030_OpenGL_DepthTest/                    # 深度测试
 └── 031_OpenGL_Geometry/                     # 几何绘制
 OpenGL基础部分完结
+通过Gitee码云测试拉取和推动，同时查看Github的更新情况
 ```
